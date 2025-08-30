@@ -7,7 +7,7 @@ sidebar_label: Overview
 > Call for translators! [We're looking for translators](https://github.com/all-contributors/all-contributors/issues/143) to help translate this spec for everyone!
 
 <div align="center">
-    <img src="/images/logo-full-transparent.png" alt="✨ All Contributors ✨" width="800px" />
+    <img src="../assets/logo-full-transparent.png" alt="✨ All Contributors ✨" width="800px" />
 </div>
 
 <a class="github-button" href="https://github.com/all-contributors/all-contributors" data-icon="octicon-star" data-count-href="/all-contributors/all-contributors/stargazers" data-show-count="true" data-count-aria-label="# stargazers on GitHub" aria-label="Star this project on GitHub" >Star</a>
@@ -24,7 +24,7 @@ People are giving themselves and their free time to contribute to open source pr
 
 Below is an example of how using the all-contributors spec table can recognize all contributors
 <div align="center">
-    <img src="/images/contributors-table-small.png" alt="All Contributors Table Screenshot" width="800px" />
+    <img src="../assets/contributors-table-small.png" alt="All Contributors Table Screenshot" width="800px" />
 </div>
 
 > You can use [the @all-contributors bot 🤖](bot/overview) to automate acknowledging contributors to your open source projects
