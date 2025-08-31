@@ -1,9 +1,9 @@
 ---
-title: Splash Page
+title: Homepage
 template: splash
 ---
 
-### This is where the splash page content will go
+### This is where the homepage content will go
 
 To change the homepage edit this file: `./src/content/docs/index.mdx`.
 
